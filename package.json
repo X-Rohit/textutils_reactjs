@@ -1,4 +1,9 @@
+
+
+
+
 {
+  "homepage": "http://mywebsite.com/relativepath",
   "name": "textutils",
   "version": "0.1.0",
   "private": true,
